@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightgrey;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header {
+    background-color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.Titolo {
+    font-size: 40px;
+    display: inline-block;
+    
+    
+}
+.logo {
+    vertical-align: bottom;
+    margin-left: 25px;
+}
+
+.navigatore {
+    width: 1000px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 60px;
+    margin-bottom: 2px;
+    margin-left: 25%;
+    padding-top: 10px;
+    padding-left: 10px;
+    
+}
+
+.list {
+    width: 1000px;
+    height: 700px;
+    border-radius: 5px;
+    background-color: white;
+    margin-left: 25%;
+    padding-left: 10px;
+    padding-top: 10px;
+    line-height: 50px;
+}
+
+span {
+    border-radius: 8px;
+    padding: 5px;
+    color: white;
+    font-size: 15px;
+}
+
+.checkbox {
+    border-radius: 50%;
+    color: green;
+    border: 1px solid green;
+    background-color: white;
+}
+
+.x {
+    border-radius: 50%;
+    color: red;
+    border: 1px solid red;
+    background-color: white;
+}
+
+.editorial {
+    background-color: lightskyblue;
+}
+
+.goals {
+    background-color: blueviolet;
+}
+
+.recruiting {
+    background-color: green;
+}
+
+.mobile {
+    background-color: orange;
+}
+
+.website {
+    background-color: pink;
+}
+
+.sales {
+    background-color: greenyellow;
+}
+
+.task {
+    background-color: lightskyblue;
+}
+
+.section{
+    color: grey;
+    border: 1px solid grey;
+}
