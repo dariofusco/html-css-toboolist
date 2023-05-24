@@ -9,17 +9,18 @@ body{
     margin: auto;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 header {
     background-color: white;
     padding-top: 15px;
     padding-bottom: 15px;
 }
+
 .Titolo {
     font-size: 40px;
-    display: inline-block;
-    
-    
+    display: inline-block;    
 }
+
 .logo {
     vertical-align: bottom;
     margin-left: 25px;
@@ -34,8 +35,7 @@ header {
     margin-bottom: 2px;
     margin-left: 25%;
     padding-top: 10px;
-    padding-left: 10px;
-    
+    padding-left: 10px; 
 }
 
 .list {
